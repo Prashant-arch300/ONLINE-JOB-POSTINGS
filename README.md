@@ -13,8 +13,8 @@ the online job portal post as a proxy. A secondary objective is to implement adv
 as a proof of concept to create additional features such as enhanced search function that can add
 additional value to the users of the job portal.
 Business questions answering to our business objectives are defined as follows:
-  # Job Nature and Company Profiles: What are the types of jobs that are in demand in Armenia? How
-  are the job natures changing over time? 
+  # Job Nature and Company Profiles: What are the types of jobs that are in demand in Armenia?
+  How are the job natures changing over time? 
   # Desired Characteristics and Skill-Sets:
   What are the desired characteristics and skill-set of the candidates based on the job description
   dataset? How these are desired characteristics changing over time?
